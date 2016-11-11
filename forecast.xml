@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type = "text/xsl" href = "forecast.xsl"?>
+<forecast>
+	<location>
+		<issued>5:00 AM AST Monday 23 January 2017</issued>
+		<city>Charlottetown</city>
+		<degrees>C</degrees>
+		<province>PEI</province>
+		<country>Canada</country>
+	</location>
+	<daily>
+		<day>
+			<date>2017/01/23</date>
+			<high>2</high>
+			<low>-11</low>
+			<condition>sun-cloud</condition>
+			<description>Mainly sunny. High minus 2. Tonight: Increasing cloudiness. Periods of snow or freezing rain beginning after midnight then changing to rain and fog overnight. Rainfall amount 5 mm. Wind becoming southeast 20 km/h before morning. Temperature rising to plus 3 by morning.</description>
+		</day>
+		<day>
+			<date>2017/01/24</date>
+			<high>9</high>
+			<low>3</low>
+			<condition>rain</condition>
+			<description>Rain ending in the afternoon then cloudy. Amount 10 mm. Fog. Wind southeast 30 km/h gusting to 50 becoming south 20 in the afternoon then light in the evening. High 9.</description>
+		</day>
+		<day>
+			<date>2017/01/25</date>
+			<high>1</high>
+			<low>-1</low>
+			<condition>overcast</condition>
+			<description>Cloudy. Low minus 1. High plus 1.</description>
+		</day>
+		<day>
+			<date>2017/01/26</date>
+			<high>-2</high>
+			<low>-4</low>
+			<condition>snow</condition>
+			<description>Cloudy with 60 percent chance of flurries. Low minus 4. High minus 2.</description>
+		</day>
+		<day>
+			<date>2017/01/27</date>
+			<high>-3</high>
+			<low>-8</low>
+			<condition>sun-cloud</condition>
+			<description>A mix of sun and cloud. Low minus 8. High minus 3.</description>
+		</day>
+	</daily>
+</forecast>

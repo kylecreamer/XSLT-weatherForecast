@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE playlist [
+        <!ELEMENT playlist (track)*>
+        <!ELEMENT track (artist|song|album)*>
+        <!ELEMENT artist (#PCDATA)>
+        <!ELEMENT song (#PCDATA)>
+        <!ELEMENT album (#PCDATA)>
+        ]>
+<playlist>
+    <track>
+        <artist>Kavinsky</artist>
+        <song>First Blood</song>
+        <album>OutRun</album>
+    </track>
+    <track>
+        <artist>Justice</artist>
+        <song>Helix</song>
+        <album>Audio, Video, Disco.</album>
+    </track>
+    <track>
+        <artist>The Bloody Beetroots</artist>
+        <song>Rocksteady</song>
+        <album>Rocksteady</album>
+    </track>
+    <track>
+        <artist>The Bloody Beetroots</artist>
+        <song>Albion</song>
+        <album>HIDE</album>
+    </track>
+    <track>
+        <artist>Martin Garrix</artist>
+        <song>Animals</song>
+        <album>Animals</album>
+    </track>
+    <track>
+        <artist>Boyz Noize</artist>
+        <song>Arcade Robot</song>
+        <album>Oi Oi Oi</album>
+    </track>
+    <track>
+        <artist>Danger</artist>
+        <song>11:30</song>
+        <album>09/14 2007 - EP</album>
+    </track>
+    <track>
+        <artist>Desiigner</artist>
+        <song>Panda</song>
+        <album>Panda</album>
+    </track>
+    <track>
+        <artist>Phantogram</artist>
+        <song>Turn It Off</song>
+        <album>Eyelid Movies</album>
+    </track>
+    <track>
+        <artist>M83</artist>
+        <song>Run Into Flowers</song>
+        <album>Dead Cities, Red Seas &amp; Lost Ghosts</album>
+    </track>
+</playlist>
